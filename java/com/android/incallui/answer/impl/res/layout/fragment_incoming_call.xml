@@ -38,8 +38,6 @@
       android:layout_height="match_parent"
       android:importantForAccessibility="no"
       android:visibility="gone"
-      app:scaleHeight="@bool/scale_height"
-      app:scaleWidth="@bool/scale_width"/>
 
   <View
       android:id="@+id/incoming_preview_texture_view_overlay"
